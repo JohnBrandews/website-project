@@ -8,3 +8,4 @@ define('ROOT_PATH', realpath(dirname(__FILE__)));
 //   this reduces the need for several links for different pages and make them more flexible
 // it doesn't require a person to specify many path files
 define('BASE_URL',"http://localhost/BLOG");
+// define('ROOT_PATH',realpath(dirname(__FILE__));
